@@ -1,1 +1,1 @@
-# py_edu
+# Repository for learning Python
